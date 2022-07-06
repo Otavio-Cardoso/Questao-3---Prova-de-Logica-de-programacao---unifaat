@@ -10,6 +10,8 @@ namespace Questao_3___Prova_de_Logica___unifaat
     {
         static void Main(string[] args)
         {
+            //------------- ALUNO : OTÁVIO CARDOSO RA 6322528 -------------
+            
             Console.WriteLine("Digite o número da fígura geométrica desejada:\n" +
                 "1 - Triângulo\n2 - Círculo\n3 - Losango");
             int numero = Convert.ToInt32(Console.ReadLine());
